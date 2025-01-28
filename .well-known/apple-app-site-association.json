@@ -5,7 +5,7 @@
       {
         "appID": "G59SVKTKY7.app.sips.sips",
         "paths": [
-          "/signin/*"        // Allow links matching /signin/
+          "/signin/*"
         ]
       }
     ]
